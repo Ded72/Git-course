@@ -1,0 +1,25 @@
+C:\Users\egori\source\repos\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\egori\source\repos\FileManager\bin\Debug\FileManager.exe
+C:\Users\egori\source\repos\FileManager\bin\Debug\FileManager.pdb
+C:\Users\egori\source\repos\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+C:\Users\egori\source\repos\FileManager\obj\Debug\FileManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\egori\source\repos\FileManager\obj\Debug\FileManager.Form1.resources
+C:\Users\egori\source\repos\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\Users\egori\source\repos\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\Users\egori\source\repos\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\egori\source\repos\FileManager\obj\Debug\FileManager.exe
+C:\Users\egori\source\repos\FileManager\obj\Debug\FileManager.pdb
+C:\Users\egori\source\repos\FileManager\obj\Debug\FileManager.FormDiskInfo.resources
+C:\Users\egori\source\repos\FileManager\obj\Debug\FileManager.FeaturesFiles.resources
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\bin\Debug\FileManager.exe
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\bin\Debug\FileManager.pdb
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\obj\Debug\FileManager.FeaturesFiles.resources
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\obj\Debug\FileManager.Form1.resources
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\obj\Debug\FileManager.FormDiskInfo.resources
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\obj\Debug\FileManager.exe
+C:\Users\egori\Desktop\универ 2.4\Курсовая ооп\FileManager\obj\Debug\FileManager.pdb
