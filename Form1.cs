@@ -794,6 +794,8 @@ namespace FileManager
                 toolStripBar.Visible = false;
                 скрытьТулбарToolStripMenuItem.Text = "Показать тулбар";
             }
+
+            MessageBox.Show("es");
         }
     }
 }
